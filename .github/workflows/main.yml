@@ -1,5 +1,5 @@
-name: learn-github-actions
-run-name: ${{ github.actor }} is learning GitHub Actions
+name: MAIN
+run-name: MAIN
 on:
   schedule:
     - cron: "0 * * * *"
